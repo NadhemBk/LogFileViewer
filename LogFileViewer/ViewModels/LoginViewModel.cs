@@ -53,26 +53,11 @@ namespace LogFileViewer.ViewModels
             {
                 ErrorMessage = string.Empty;
                 NavigationService.NavigateToMain();
-                //var loginView = Application.Current.Windows.OfType<Views.LoginView>().SingleOrDefault();
-                //Application.Current.Dispatcher.Invoke(() => { ShowLogListView(); });
-                //loginView.Close();
             }
             else
             {
                 ErrorMessage = "Username or password is incorrect. Please try again.";
             }
         }
-
-        //private void ShowLogListView()
-        //{
-        //    var logListView = Application.Current.Windows.OfType<Views.LogListView>().SingleOrDefault();
-
-        //    if (logListView == null)
-        //    {
-        //        logListView = new Views.LogListView();
-        //    }
-
-        //    logListView.Show();
-        //}
     }
 }
