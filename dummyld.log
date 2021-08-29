@@ -1,0 +1,26 @@
+2021-05-17 18:47:19.9424 [INFO] MainService.StartUp.Initialize: 2.23.534.0.Service, Service is starting
+2021-05-17 18:47:19.9924 [INFO] Service1.StartUp.Initialize: 2.23.34.0.Service, File: D:\path\Service_2021-05-17.log
+2021-05-17 18:47:20.0034 [INFO] Service2.StartUp.Initialize: 2.23.34.0.Service, Loglevel: info
+2021-05-17 18:47:20.7714 [INFO] Service3.StartUp.Initialize: 2.23.34.0.Service, RestService is starting, port: xx.xx.xx.xx:1111
+2021-05-17 18:47:22.9405 [WARN] Service.Controller.DatabaseController: 2.23.534.0.
+2021-05-17 18:47:28.4866 [INFO] Service.Controller.ServiceController: 2.23.6534.0.ocessSessionID: 0
+2021-05-17 18:47:34.3915 [WARN] Service.Controller.ServiceController: 2.23.6534.0.2, ProcessSessionID: 0
+2021-05-17 18:47:39.9850 [WARN] Service.Controller.ProcessController: 2.23.6534.0., SessionID: 0
+2021-05-17 18:47:45.6081 [INFO] Service.Controller.ProcessController: 2.23.6534.0., SessionID: 0
+2021-05-17 18:47:51.4270 [WARN] Service.Controller.ProcessController: 2.23.6534.0., SessionID: 0
+2021-05-17 18:47:57.3897 [WARN] Service.Controller.ProcessController: 2.23.6534.0.ID: 8 SessionID: 0
+2021-05-17 18:48:02.1537 [INFO] Service.Controller.ProcessController: 2.23.6534.0.8120, SessionID: 0
+2021-05-17 18:48:07.3902 [INFO] Service.Controller.ProcessController: 2.23.6534.0.ID: 9412, SessionID: 0
+2021-05-17 18:48:12.3898 [INFO] Service.Controller.ProcessController: 2.23.6534.0.essionID: 0
+2021-05-17 18:48:18.3123 [INFO] Service.Controller.ProcessController: 2.23.6534.0.4
+2021-05-17 18:48:26.4246 [INFO] Service.Controller.ProcessController: 2.23.6534.0.
+2021-05-17 18:48:27.0126 [WARN] Service.Controller.ProcessController: 2.23.6534.0.-1.8.0.222-4\bin\java.exe
+2021-05-17 18:48:32.0242 [INFO] Service.Controller.ProcessController: 2.23.6534.0.
+2021-05-17 18:48:38.2136 [INFO] Service.Controller.ProcessController: 2.23.6534.0.
+2021-05-17 18:49:16.9655 [INFO] Service.Controller.ProcessController: 2.23.6534.0.
+2021-05-17 18:49:27.0403 [INFO] Service.Controller.ProcessController: 2.23.6534.0.
+2021-05-17 18:50:09.5221 [INFO] Service.Controller.ProcessController: 2.23.6534.0.000 ms, ProcessID: 6972, SessionID: 0
+2021-05-17 18:50:11.8274 [INFO] Service.Controller.ProcessController: 2.23.6534.0.
+2021-05-17 18:50:15.2163 [INFO] Service.Controller.ProcessController: 2.23.6534.0., ProcessID: , SessionID: 
+2021-05-17 18:50:19.0945 [INFO] Service.Controller.ProcessController: 2.23.6534.0.
+2021-05-17 18:50:44.8854 [WARN] Service.Controller.ProcessController: 2.23.6534.0.
