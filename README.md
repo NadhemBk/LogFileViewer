@@ -15,4 +15,4 @@ The file dummyld.log can be used as a test file.
  - Save filtered data as a csv file
  
  # About
- LogFile Viewer is developed based on SOLID principles. The used programming language is C#.
+ LogFile Viewer is developed based on SOLID principles. 
